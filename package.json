@@ -1,0 +1,17 @@
+{
+  "name": "require",
+  "version": "1.0.0",
+  "description": "Video için discord botu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucifer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^5.13.5"
+  }
+}
